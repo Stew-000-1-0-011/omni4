@@ -1,3 +1,5 @@
+// きっと動く
+
 #include <cmath>
 
 #include <array>
