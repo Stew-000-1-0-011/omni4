@@ -1,0 +1,10 @@
+<library path="lib/libomni4">
+
+  <class name="omni4/Omni4Node"
+     type="omni4node::Omni4Node"
+     base_class_type="nodelet::Nodelet">
+    <description>
+    </description>
+  </class>
+
+</library>
